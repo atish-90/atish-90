@@ -1,5 +1,7 @@
 # Hi There, I'm Atish K. Prasad :wink:
-<p align="center">![](https://komarev.com/ghpvc/?username=atish-90&color=brightgreen&label=PROFILE+VIEWS)</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=atish-90&color=brightgreen&label=PROFILE+VIEWS)">
+</p>
 
 ## My Skills :computer:
 
