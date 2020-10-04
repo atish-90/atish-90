@@ -27,11 +27,11 @@
 </p><br>
 
 <p align="center">
-    [![Top Languages used](github-readme-stats-beta-seven.vercel.app/api/top-langs/?username=atish-90&layout=compact)](https://github.com/atish-90/github-readme-stats)
+    [![Top Languages used](https://github-readme-stats-beta-seven.vercel.app/api/top-langs/?username=atish-90&layout=compact)](https://github.com/atish-90/github-readme-stats)
 </p><br>
 
 <p align="center"><br>
-    ![Atish's GitHub Stats](github-readme-stats-beta-seven.vercel.app/api?username=atish-90&show_icons=true&theme=radical&count_private=true&show_icons=true)
+    ![Atish's GitHub Stats](https://github-readme-stats-beta-seven.vercel.app/api?username=atish-90&show_icons=true&theme=radical&count_private=true&show_icons=true)
 </p><br>
 
 ## Profile:
