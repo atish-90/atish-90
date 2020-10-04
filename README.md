@@ -3,7 +3,7 @@
 
 ## My Skills :computer:
 
-**Languages and Frameworks**
+**Languages and Frameworks** <br><br>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/c/c-original.svg" alt="C"      width="40" height="40" align="center">
@@ -17,22 +17,22 @@
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/mysql/mysql-original.svg" alt="MYSQL" width="40" height="40" align="center"/>
-</p>
+</p><br><br>
 
-**Tools**
+**Tools** <br><br>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/github/github-original.svg" alt="jQuery" width="40" height="40" align="center"/>
-</p>
+</p><br><br>
 
 <p align="center">
     [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=atish-90&layout=compact)](https://github.com/atish-90/github-readme-stats)
-</p>
+</p><br><br>
 
-<p align="center">
+<p align="center"><br><br>
     [![Atish's github stats](https://github-readme-stats.vercel.app/api?username=atish-90&show_icons=true&theme=radical)](https://github.com/atish-90/github-readme-stats)
-</p>
+</p><br><br>
 
 ## Profile:
 <p align="center">
