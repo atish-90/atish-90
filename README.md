@@ -25,13 +25,9 @@
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/github/github-original.svg" alt="jQuery" width="50" height="50" align="center"/>
 </p><br>
 
-<p align="center">
-    [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=atish-90&layout=compact)](https://github.com/atish-90/github-readme-stats)
-</p><br>
-
-<p align="center"><br>
-    ![Atish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atish-90&show_icons=true&theme=radical&count_private=true&show_icons=true)
-</p><br>
+<a href="https://github.com/atish-90/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atish-90&repo=github-readme-stats&count_private=true&show_icons=true&theme=dark" />
+</a><br>
 
 ## Profile:
 <p align="center">
