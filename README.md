@@ -12,7 +12,6 @@
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" align="center"/>
-    <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50" align="center"/>
     <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" align="center"/>
