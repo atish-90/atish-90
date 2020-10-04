@@ -5,7 +5,7 @@
 
 **Languages and Frameworks**
 
-<img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/c/c-original.svg" alt="C"    width="40"height="40"/>
+<img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/c/c-original.svg" alt="C"    width="40" height="40">
 <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"height="40"/>
 <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"height="40"/>
 <img src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/java/java-original.svg" alt="Java" width="40"height="40"/>
@@ -34,6 +34,6 @@
 
 ## Profile:
 <p align="center">
-    <a href="https://www.linkedin.com/in/atish-kumar-prasad-471bb2157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/linkedin.svg" alt="atish-90" height="40" width="40" /></a>
-    <a href="https://www.hackerrank.com/atish_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/hackerrank.svg" alt="atish-90" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/atish-kumar-prasad-471bb2157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
+    <a href="https://www.hackerrank.com/atish_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/hackerrank/hackerrank-original.svg" alt="atish-90" height="40" width="40" /></a>
 </p>
