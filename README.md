@@ -40,10 +40,10 @@
     <a href="https://www.linkedin.com/in/atish-kumar-prasad-471bb2157/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" />
     </a>
-    <a href="https://www.hackerrank.com/atish_90" target="blank">
+<!--     <a href="https://www.hackerrank.com/atish_90" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/hackerrank/hackerrank.svg" alt="Hackerrank" height="50" width="50" />
     </a>
     <a href="https://www.codechef.com/users/atish90" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/atish-90/atish-90/master/icons/codechef/codechef.svg" alt="Codechef" height="50" width="50" />
-    </a>
+    </a> -->
 </p>
