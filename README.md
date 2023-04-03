@@ -1,4 +1,4 @@
-# Hi There, I'm Atish K. Prasad :wink:
+# Hi There, I'm Atish Kr. Prasad :wink:
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=atish-90&color=brightgreen&label=PROFILE+VIEWS">
 </p>
